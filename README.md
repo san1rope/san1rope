@@ -1,3 +1,10 @@
 # Начинающий разработчик на Python & Java
+
+### В основном занимаюсь написанием:
+- Telegram ботов (Python)
+- Парсеры (Python)
+- Плагины для майнкрафт серверов под Spigot и другие форки (Java)
+
 ---
-## В основном занимаюсь Telegram ботами
+
+[![Telegram](telegram-icon.png)](https://t.me/san1rope)
